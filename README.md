@@ -1,5 +1,7 @@
 # web-quran
 
+demo this project: https://quranweb-ahmad.netlify.app/
+
 ## Project setup
 ```
 yarn install
