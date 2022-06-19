@@ -13,10 +13,7 @@
         </div>
         <div class="col-md-6">
             <div class="container">
-                <audio controls>
-                    <source :src="`${quran.audio}`" type="audio/mpeg">
-                    Browser kamu tidak support audio!
-                </audio>
+                <audio controls :src="`${quran.audio}`" type="audio/mpeg"></audio>
             </div>
         </div>
     </div>
