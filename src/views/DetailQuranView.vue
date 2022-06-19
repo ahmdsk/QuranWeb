@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-6 pb-2">
             <div class="ayat py-3" v-for="ayat in quran.ayat" :key="ayat.nomor">
-                <p v-html="ayat.ar" style="text-align: right"></p>
+                <p v-html="ayat.ar" style="text-align: right;font-size: 28px;"></p>
                 <p v-html="ayat.nomor +'. '+ ayat.tr" style="font-style: italic;"></p>
                 <p v-html="ayat.nomor +'. '+ ayat.idn"></p>
                 <hr>
