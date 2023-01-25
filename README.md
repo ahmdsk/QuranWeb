@@ -1,6 +1,4 @@
-# web-quran
-
-demo this project: https://quranweb-ahmad.netlify.app/
+# WebQuran - VueJS 2
 
 ## Project setup
 ```
